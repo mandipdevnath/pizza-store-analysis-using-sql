@@ -3,6 +3,13 @@
 
 In this project, I performed a comprehensive data analysis and exploration of pizza store sales using MySQL. With a dataset containing over 20,000 rows, I addressed several crucial business questions, including identifying top-selling pizzas, peak sales periods, and customer ordering patterns. By leveraging SQL queries, I extracted actionable insights that helped optimize inventory management, enhance customer satisfaction, and improve overall operational performance. This project highlights my ability to work with large datasets and derive meaningful conclusions to drive business success.
 
+### About the Dataset
+- Size: 20000+ rows
+- Format: CSV
+- Duration: Sales Data of 1 Year Period - From Jan 1 2015 to Dec 31 2015
+
+### Tool(s) Used
+- MySQL
 
 ## Data Model
 
@@ -226,3 +233,9 @@ where rn<=3;
 #### Result
 ![enter image description here](https://blogger.googleusercontent.com/img/a/AVvXsEg6z2nP9mcl0fjTui4RdB6qEKEzAv626gudwva0YSWAwRIE8Z6CfpW8QcZhl5Dqn7uZgCwPkwcQ3Cgcc4Xf9F333UXdN2bEPgN_e4fRBF1Q1QalnuwmQd2no9GyLDfr_CPsszW1AmgXCiPTlNToHFf1ByastAmQTIBHa5o38iPgdAUr11HrFQg08soz6UA=w430-h356)
 ---
+
+## Recommendations based on Insights
+-   Identified peak rush hours as 12 PM to 2 PM and 5 PM to 8 PM, recommending optimal stock availability and full staff engagement during these times to meet high demand.
+-   Discovered that while Classic pizzas are the most popular, Chicken pizzas generate the highest revenue, suggesting the implementation of discount or combo offers to drive further growth.
+---
+[Follow me on Linkedin](https://www.linkedin.com/in/mandipdevnath/)
