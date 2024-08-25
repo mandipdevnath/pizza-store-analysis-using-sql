@@ -1,5 +1,6 @@
 # Pizza Store Analysis using SQL
 ![enter image description here](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-_soEWWcJP5WwXooHIj3wHsVty6eTZu6AxeyMzf91mC_bO4uT2vwyI2nD_ni0xUN3MjVsu2VFs1yJcp6t5VWA3faXA6S0OgIVFqIaP-o166E3nMTdOfQrk8K94okJkHIf87qTT35BrbtYtEhorPo81CVcFMhCH2FnxAPc0xQtlwHZ9k10rdeVkrk2Bnw/w548-h309/PIZZA%20SQL%20cover%20page.png)
+
 In this project, I performed a comprehensive data analysis and exploration of pizza store sales using MySQL. With a dataset containing over 20,000 rows, I addressed several crucial business questions, including identifying top-selling pizzas, peak sales periods, and customer ordering patterns. By leveraging SQL queries, I extracted actionable insights that helped optimize inventory management, enhance customer satisfaction, and improve overall operational performance. This project highlights my ability to work with large datasets and derive meaningful conclusions to drive business success.
 
 
